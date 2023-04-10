@@ -142,7 +142,7 @@ select * from nashville_housing_table;
 -- 8. Delete Unused Columns
 
 ALTER TABLE nashville_housing_table
-DROP COLUMN TaxDistrict
+DROP COLUMN TaxDistrict, OwnerAddress, PropertyAddress
 ;
 
 
