@@ -1,4 +1,4 @@
-# [SQL data cleaning demo_US housing](https://github.com/GISOGISO/SQL_data_cleaning_demo_US_housing/blob/main/project_codes.sql)
+# [SQL data cleaning demo - US housing](https://github.com/GISOGISO/SQL_data_cleaning_demo_US_housing/blob/main/project_codes.sql)
 
 * Preprocessed and cleaned data for future analysis
 * Skills used in SQL: Data pre-processing, data cleaning, null values, Joins, duplications, etc
